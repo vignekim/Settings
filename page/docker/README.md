@@ -5,6 +5,21 @@
 ### 3. Docker
 <img src="../../images/docker/docker.png" width="1920"></img>
 
+###### Download 눌러 설치 파일 받기
+<img src="../../images/docker/docker-1.png" width="1920"></img>
+
+###### 다운 받은 dmg 파일 실행 후 Applications로 복사
+<img src="../../images/docker/docker-2.png" width="1920"></img>
+
+###### Dashboard 실행하여 설치 상태 확인
+<img src="../../images/docker/docker-3.png" width="1920"></img>
+
+###### 설치 후 Docker 버젼 확인
+<img src="../../images/docker/docker-4.png" width="1920"></img>
+```
+    docker -v
+```
+
 ----
 
 # Table of Contents
