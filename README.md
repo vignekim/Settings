@@ -12,7 +12,7 @@ Mac Setting
 
 # 프로그래밍 언어 설치
 ### 1. Java
-<img src="../images/java.jpg" width="189" height="80"></img>
+<img src="./images/java.jpg" width="189" height="80"></img>
 
 ----
 
