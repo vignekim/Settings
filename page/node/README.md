@@ -1,5 +1,6 @@
 ### 참조 자료 링크
 > * [node.js](https://nodejs.org/en/)
+> * [Homebrew](https://brew.sh/index_ko)
 
 # 프로그래밍 언어 설치
 ### 2. node.js
