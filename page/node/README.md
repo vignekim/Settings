@@ -21,17 +21,17 @@ Mac Setting
     node -v
     npm -v
 ```
-<img src="../../images/node.png" width="1920"></img>
+<img src="../../images/node/node.png" width="1920"></img>
 
 ----
 
 # Table of Contents
-##### [0. Main](../../)
+##### [0. Shell Foder](../../)
 ##### [1. Java](../java)
 #### 2. NodeJs
 ##### [3. Docker](../docker)
 ##### [4. MariaDB](../mariadb)
-##### [5. DBeaver](../DBeaver)
+##### [5. DBeaver](../dbeaver)
 ##### [6. Eclipse](../eclipse)
 ##### [7. Httpd](../httpd)
 ##### [8. Tomcat](../tomcat)
