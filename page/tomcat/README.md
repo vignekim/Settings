@@ -11,14 +11,14 @@
 <img src="../../images/apache.png" width="1920"></img>
 
 ###### Tomcat 선택 시 정보 화면으로 이동
-<img src="../../images/tomcat/tomcat-1.jpg" width="1920"></img>
+<img src="../../images/tomcat/tomcat-1.png" width="1920"></img>
 
 ###### 왼쪽 매뉴 중 Download에서 버젼를 선택
 ###### Binary Distributions -> Core 중 OS에 맞는 파일 선택
-<img src="../../images/tomcat/tomcat-2.jpg" width="1920"></img>
+<img src="../../images/tomcat/tomcat-2.png" width="1920"></img>
 
 ###### Download 파일 압축을 풀면 Tomcat 준비 끝
-<img src="../../images/tomcat/tomcat-3.jpg" width="1920"></img>
+<img src="../../images/tomcat/tomcat-3.png" width="1920"></img>
 
 ----
 
