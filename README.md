@@ -6,6 +6,9 @@
 > * [DBeaver](https://dbeaver.io/)
 > * [Eclipse](https://www.eclipse.org/)
 > * [Apache](https://apache.org/)
+> * [Apache Project](https://apache.org/index.html#projects-list)
+> * [Http Server](https://httpd.apache.org/)
+> * [Homebrew](https://brew.sh/index_ko)
 
 # MAC 사용자가 시작한 프로그램
 ### 0. Shell Foder
