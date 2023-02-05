@@ -5,6 +5,18 @@
 ### 5. DBeaver
 <img src="../../images/dbeaver/dbeaver.png" width="1920"></img>
 
+###### DBeaver 페이지에서 Download 클릭
+<img src="../../images/dbeaver/dbeaver-1.png" width="1920"></img>
+
+###### Operating System(OS)에 맞는 파일 선택
+<img src="../../images/dbeaver/dbeaver-2.png" width="1920"></img>
+
+###### dmg 파일 받았을 경우 dmg 실행 후 Applications로 복사
+<img src="../../images/dbeaver/dbeaver-3.png" width="1920"></img>
+
+###### DBeaver 실행 시 창 활성화
+<img src="../../images/dbeaver/dbeaver-4.png" width="1920"></img>
+
 ----
 
 # Table of Contents

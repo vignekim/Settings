@@ -18,6 +18,7 @@
         ㄴ .env                 : MariaDB 설치 시 필요한 환경변수 파일
 ```
 
+###### Users/Shared/data/mariadb 경로 위치한 폴더
 <img src="../../images/mariadb/mariadb-3.png" width="1920"></img>
 
 ###### my.cnf 파일 내용
@@ -34,6 +35,7 @@
     collation-server               = utf8mb4_unicode_ci
 ```
 
+###### docker-compose.yml 파일 위치한 폴더
 <img src="../../images/mariadb/mariadb-2.png" width="1920"></img>
 
 ###### docker-compose.yml 파일 내용
