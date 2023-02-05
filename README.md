@@ -1,6 +1,3 @@
-# Settings
-Mac Setting
-
 ### 참조 자료 링크
 > * [OpenJDK](https://www.azul.com/downloads/?version=java-19-sts&os=macos&architecture=arm-64-bit&package=jdk)
 > * [node.js](https://nodejs.org/en/)

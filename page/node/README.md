@@ -1,14 +1,5 @@
-# Settings
-Mac Setting
-
 ### 참조 자료 링크
-> * [OpenJDK](https://www.azul.com/downloads/?version=java-19-sts&os=macos&architecture=arm-64-bit&package=jdk)
 > * [node.js](https://nodejs.org/en/)
-> * [Docker](https://www.docker.com/)
-> * [Mariadb](https://mariadb.org/)
-> * [DBeaver](https://dbeaver.io/)
-> * [Eclipse](https://www.eclipse.org/)
-> * [Apache](https://apache.org/)
 
 # 프로그래밍 언어 설치
 ### 2. node.js
@@ -26,7 +17,7 @@ Mac Setting
 ----
 
 # Table of Contents
-##### [0. Shell Foder](../../)
+##### [0. Shell Foder](../../../../)
 ##### [1. Java](../java)
 #### 2. NodeJs
 ##### [3. Docker](../docker)
