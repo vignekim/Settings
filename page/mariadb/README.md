@@ -13,12 +13,12 @@ Mac Setting
 ----
 
 # Table of Contents
-#### 0. Main
-##### [1. Java](./page/java)
-##### [2. NodeJs](./page/node)
-##### [3. Docker](./page/docker)
-##### [4. MariaDB](./page/mariadb)
-##### [5. DBeaver](./page/DBeaver)
-##### [6. Eclipse](./page/eclipse)
-##### [7. Httpd](./page/httpd)
-##### [8. Tomcat](./page/tomcat)
+##### [0. Main](../../)
+##### [1. Java](../java)
+##### [2. NodeJs](../node)
+##### [3. Docker](../docker)
+#### 4. MariaDB
+##### [5. DBeaver](../DBeaver)
+##### [6. Eclipse](../eclipse)
+##### [7. Httpd](../httpd)
+##### [8. Tomcat](../tomcat)
