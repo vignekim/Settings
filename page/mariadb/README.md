@@ -12,7 +12,7 @@ Mac Setting
 
 # Datastore Storage
 ### 4. MariaDB
-<img src="../../images/mariaDB/mariaDB.png" width="1920"></img>
+<img src="../../images/mariadb/mariadb.png" width="1920"></img>
 
 ----
 
