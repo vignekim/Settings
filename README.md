@@ -12,7 +12,7 @@ Mac Setting
 
 # MAC 사용자가 시작한 프로그램
 ### 0. Shell Foder
-<img src="../../images/web.png" width="1920"></img>
+<img src="./images/web.png" width="1920"></img>
 ----
 
 # Table of Contents
