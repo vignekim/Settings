@@ -13,6 +13,34 @@
 # MAC 사용자가 시작한 프로그램
 ### 0. Shell Foder
 <img src="./images/web.png" width="1920"></img>
+
+### Homebrew 설치
+```
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+### Homebrew 환경설정 보기
+```
+  /opt/homebrew/bin/brew config
+```
+#### /usr/local → /opt/homebrew 수정이 필요
+
+### 해결 방안
+```
+  /opt/homebrew/bin/brew doctor
+  echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
+```
+
+### brew config 확인
+```
+  HOMEBREW_PREFIX: /opt/homebrew
+```
+
+### Homebrew 버젼 확인
+```
+  brew -v
+```
+
 ----
 
 # Table of Contents
