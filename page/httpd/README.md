@@ -16,7 +16,7 @@
 
 ###### Homebrew를 이용하여 Httpd 설치
 ```
-    sudo brew install httpd
+    brew install httpd
 ```
 
 ###### Homebrew를 이용하여 Httpd 실행
