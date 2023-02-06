@@ -28,6 +28,8 @@
 ### 해결 방안
 ```
   /opt/homebrew/bin/brew doctor
+```
+```
   echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
 ```
 
