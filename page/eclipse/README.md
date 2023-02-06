@@ -21,6 +21,12 @@
 ###### Eclipse 실행 시 창 활성화
 <img src="../../images/eclipse/eclipse-5.png" width="1920"></img>
 
+###### Eclipse 실행 시 오류 해결
+###### 오류 : Mac 코드서명 Error 발생
+```
+  codesign --force --deep --sign - /Applications/Eclipse.app/Contents/MacOS/eclipse
+```
+
 ----
 
 # Table of Contents
