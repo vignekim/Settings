@@ -13,6 +13,7 @@
     node -v
     npm -v
 ```
+
 <img src="../../images/node/node.png" width="1920"></img>
 
 ----
