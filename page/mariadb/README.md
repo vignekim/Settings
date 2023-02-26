@@ -7,7 +7,7 @@
 
 ###### docker를 이용한 데이터베이스 준비
 ```
-    Users/Shared/data/mariadb   : MariaDB 설치 Home 폴더
+    /Users/Shared/data/mariadb  : MariaDB 설치 Home 폴더
         ㄴ conf.d               : MariaDB 환경설정 폴더
                 ㄴ conf.d       : MariaDB 환경설정 파일
         ㄴ data                 : MariaDB 데이터 저장소 폴더
