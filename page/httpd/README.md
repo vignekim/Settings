@@ -35,6 +35,42 @@
 ```
 
 ----
+### docker를 사용하여 설치 할 경우
+```
+    * 주의 사항 *
+    > 기존 서비스 중인 웹서버(httpd)가 있을 경우는 Service를 중단 후 사용 하세요.
+    > volumes 설정에 있는 경로가 필수로 있어야 합니다.
+      - /Users/계정/www << MAC OS 경우 
+```
+###### docker-compose.yml 파일 내용
+```
+    version: "3.7"
+
+    services:
+      httpd:
+          image: httpd:latest
+          ports:
+            - 80:80
+          volumes:
+            - /Users/bean/www:/usr/local/apache2/htdocs
+          networks:
+            - backend
+          restart: always
+    networks:
+      backend:
+```
+
+###### docker-compose.yml 실행 명령어
+```
+    docker-compose up -d
+```
+
+###### docker-compose.yml 정지 명령어
+```
+    docker-compose down
+```
+
+----
 
 # Table of Contents
 ##### [0. Shell Foder](../../../../)
