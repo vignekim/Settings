@@ -43,20 +43,18 @@
     version: "3"
 
     services:
-    mariadb:
-        image: mariadb:latest
-        ports:
-        - 23306:3306
-        volumes:
-        - /Users/Shared/data/mariadb/conf.d:/etc/mysql/conf.d
-        - /Users/Shared/data/mariadb/data:/var/lib/mysql
-        - /Users/Shared/data/mariadb/initdb.d:/docker-entrypoint-initdb.d
-        env_file: .env
-        environment:
-        TZ: Asia/Seoul
-        networks:
-        - backend
-        restart: always
+        mariadb:
+            image: mariadb:latest
+            ports:
+            - 23306:3306
+            volumes:
+            - /Users/Shared/data/mariadb/conf.d:/etc/mysql/conf.d
+            - /Users/Shared/data/mariadb/data:/var/lib/mysql
+            - /Users/Shared/data/mariadb/initdb.d:/docker-entrypoint-initdb.d
+            env_file: .env
+            networks:
+            - backend
+            restart: always
 
     networks:
     backend:
