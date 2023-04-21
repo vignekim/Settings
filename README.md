@@ -53,39 +53,17 @@
   brew -v
 ```
 
+----
 ### YouTube Link
 
-###### Java
-
-## [![Video Label](http://img.youtube.com/vi/VvQTz_Ux8Tc/0.jpg)](https://youtu.be/VvQTz_Ux8Tc)
-
-###### Node.Js
-
-## [![Video Label](http://img.youtube.com/vi/_lEQlgFijc4/0.jpg)](https://youtu.be/_lEQlgFijc4)
-
-###### Docker
-
-## [![Video Label](http://img.youtube.com/vi/jBVTQf_tJj0/0.jpg)](https://youtu.be/jBVTQf_tJj0)
-
-###### MariaDB
-
-## [![Video Label](http://img.youtube.com/vi/QuPLYFJsfk8/0.jpg)](https://youtu.be/QuPLYFJsfk8)
-
-###### DBeaver
-
-## [![Video Label](http://img.youtube.com/vi/TeWB8BqrVbQ/0.jpg)](https://youtu.be/TeWB8BqrVbQ)
-
-###### Eclipse
-
-## [![Video Label](http://img.youtube.com/vi/EnkS9WEf5uM/0.jpg)](https://youtu.be/EnkS9WEf5uM)
-
-###### Httpd
-
-## [![Video Label](http://img.youtube.com/vi/EDfejcrF1yo/0.jpg)](https://youtu.be/EDfejcrF1yo)
-
-###### Tomcat
-
-## [![Video Label](http://img.youtube.com/vi/MfM6djlJUhM/0.jpg)](https://youtu.be/MfM6djlJUhM)
+> * [Java Install](https://youtu.be/VvQTz_Ux8Tc)
+> * [Node.Js Install](https://youtu.be/_lEQlgFijc4)
+> * [Docker Install](https://youtu.be/jBVTQf_tJj0)
+> * [MariaDB Install](https://youtu.be/QuPLYFJsfk8)
+> * [DBeaver Install](https://youtu.be/TeWB8BqrVbQ)
+> * [Eclipse Install](https://youtu.be/EnkS9WEf5uM)
+> * [Httpd Install](https://youtu.be/EDfejcrF1yo)
+> * [Tomcat Install](https://youtu.be/MfM6djlJUhM)
 
 ---
 
